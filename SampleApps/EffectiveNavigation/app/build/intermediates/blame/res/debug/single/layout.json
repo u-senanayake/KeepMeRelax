@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\MyWorks\\Projects\\Android\\FinalProject\\SampleApps\\EffectiveNavigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_section_dummy.xml",
+        "source": "E:\\MyWorks\\Projects\\Android\\FinalProject\\SampleApps\\EffectiveNavigation\\app\\src\\main\\res\\layout\\fragment_section_dummy.xml"
+    },
+    {
+        "merged": "E:\\MyWorks\\Projects\\Android\\FinalProject\\SampleApps\\EffectiveNavigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_collection_demo.xml",
+        "source": "E:\\MyWorks\\Projects\\Android\\FinalProject\\SampleApps\\EffectiveNavigation\\app\\src\\main\\res\\layout\\activity_collection_demo.xml"
+    },
+    {
+        "merged": "E:\\MyWorks\\Projects\\Android\\FinalProject\\SampleApps\\EffectiveNavigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_section_launchpad.xml",
+        "source": "E:\\MyWorks\\Projects\\Android\\FinalProject\\SampleApps\\EffectiveNavigation\\app\\src\\main\\res\\layout\\fragment_section_launchpad.xml"
+    },
+    {
+        "merged": "E:\\MyWorks\\Projects\\Android\\FinalProject\\SampleApps\\EffectiveNavigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\MyWorks\\Projects\\Android\\FinalProject\\SampleApps\\EffectiveNavigation\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\MyWorks\\Projects\\Android\\FinalProject\\SampleApps\\EffectiveNavigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_collection_object.xml",
+        "source": "E:\\MyWorks\\Projects\\Android\\FinalProject\\SampleApps\\EffectiveNavigation\\app\\src\\main\\res\\layout\\fragment_collection_object.xml"
+    }
+]
