@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\MyWorks\\Projects\\Android\\FinalProject\\SampleApps\\NavigationDrawer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_planet.xml",
+        "source": "E:\\MyWorks\\Projects\\Android\\FinalProject\\SampleApps\\NavigationDrawer\\app\\src\\main\\res\\layout\\fragment_planet.xml"
+    },
+    {
+        "merged": "E:\\MyWorks\\Projects\\Android\\FinalProject\\SampleApps\\NavigationDrawer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\MyWorks\\Projects\\Android\\FinalProject\\SampleApps\\NavigationDrawer\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\MyWorks\\Projects\\Android\\FinalProject\\SampleApps\\NavigationDrawer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "E:\\MyWorks\\Projects\\Android\\FinalProject\\SampleApps\\NavigationDrawer\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    }
+]
