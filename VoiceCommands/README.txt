@@ -1,2 +1,5 @@
-1. Make a txt file and add voice commands to it.
-2. Read a text in txt file
+#####Read a text in a txt file.
+Your application should read the text in a txt file.
+
+#####Save voice commands.
+Your application should save commands we given.
