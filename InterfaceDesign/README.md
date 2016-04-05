@@ -3,4 +3,4 @@
 - Try to count login attemps.
 
 #####Design the home page.
--Make the home page userfriendly. (Follow the KeepMEeRelax project UIs.)
+- Make the home page userfriendly. (Follow the KeepMEeRelax project UIs.)
