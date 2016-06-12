@@ -26,7 +26,6 @@ example:
 | Emotion Rate  | Emotion       |
 | ------------- | ------------- |
 
-Pariya
 | 1             | Stress        |
 | 2             | Stress        |
 | 3             | Happy         |
@@ -66,3 +65,6 @@ Relation details
 
 ######Create separate activity for each table.
 Create a simple form to add data to database and display added data.
+
+
+Pariya
