@@ -25,6 +25,8 @@ example:
 
 | Emotion Rate  | Emotion       |
 | ------------- | ------------- |
+
+Pariya
 | 1             | Stress        |
 | 2             | Stress        |
 | 3             | Happy         |
